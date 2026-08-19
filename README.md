@@ -216,6 +216,12 @@ DNS propagation can take time depending on the provider and resolver cache.
 
 # 🚀 Installation
 
+One Line Installation
+
+```bash
+bash <(curl -s https://raw.githubusercontent.com/hosseinit1988/easy-dnstt-tunnel/main/DNSTT-Tunnel.sh)
+```
+
 Clone the repository:
 
 ```bash
